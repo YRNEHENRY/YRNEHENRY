@@ -3,7 +3,7 @@
 
 My range of programming skills are : Javascript and PHP, Python, Java, C and C#. And also MySQL, NoSQL and SQL lite.
 
-I mostly use my spare time to work on my projects to not fall apart in class. I also enjoy reading 📖 and doing sports 🏊🏻‍♂️. Otherwise like everyone else I like to waste my time on crap like animes and video games.
+I mostly use my spare time to work on my projects to not fall apart in class. I also enjoy reading 📖, doing sports 🏊🏻‍♂️ and cooking 🧑🏼‍🍳. Otherwise like everyone else I like to waste my time on crap like animes and video games.
 
 ## The purpose of my GitHub 
 This GitHub is there for my study and personal projects.
