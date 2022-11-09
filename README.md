@@ -1,5 +1,5 @@
 ## Who am I ?
-👋 Hi, I’m Henry, a Belgian programmer 🇧🇪👨🏼‍💻 who's currently studying data intelligence as well as web & mobile development. I’m interested in web development 👀 and also like statistics and machine learning.
+👋 Hi, I’m Henry, a Belgian programmer 🇧🇪👨🏼‍💻 who's currently studying data intelligence as well as web & mobile development. I’m interested in statistics and machine learning.
 
 I'm a Python and Javascript developper.
 But my range of programming skills also are: PHP, Java, C and C#. And I learn swift in my spare time.
