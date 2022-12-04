@@ -1,8 +1,8 @@
 ## Who am I ?
 👋 Hi, I’m Henry, a Belgian programmer 🇧🇪👨🏼‍💻 who's currently studying data intelligence as well as web & mobile development. I’m interested in statistics and machine learning.
 
-I'm a Python and Javascript developper.
-But my range of programming skills also are: PHP, Java, C and C#. And I learn swift in my spare time.
+I'm a Python and C developper.
+But my range of programming skills also are: PHP, Java, Javascript.
 
 I mostly use my spare time to work on my projects to not fall apart in class 😅. I also enjoy reading 📖, doing sports 🏊🏻‍♂️ and cooking 🧑🏼‍🍳. Otherwise like everyone else I like to waste my time on crap like animes and video games.
 
