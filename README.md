@@ -4,7 +4,7 @@
 I'm a Python and C developper.
 But my range of programming skills also are: C#, Java and Javascript.
 
-I mostly use my spare time to work on my projects to not fall apart in class 😅. I also enjoy reading 📖 and playing chess♟️. 
+I enjoy reading 📖 and playing chess♟️. 
 
 ## The purpose of my GitHub 
 This GitHub is there for my study and personal projects.
